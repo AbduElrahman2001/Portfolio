@@ -120,12 +120,3 @@ GitHub Pages will update automatically.
 
 ---
 
-If you'd like, I can:
-
-* Improve your portfolio UI
-* Add animations or a new design
-* Create a dark theme
-* Rewrite the portfolio from scratch with modern UI
-* Add icons, sections, or backend integration
-
-Just tell me!
